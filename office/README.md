@@ -9,4 +9,4 @@ Visit us at our development headquarter in Graz:
     8010 Graz
     Austria
 
-![office facade](images/office_facade.jpg)
+![office facade](images/schillerstrasse.jpg)
