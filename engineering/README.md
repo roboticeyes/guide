@@ -2,4 +2,4 @@
 
 **Maintainer:** [@breiting](https://github.com/breiting)
 
-t.b.d.
+* [Git workflow](git-flow.md)
