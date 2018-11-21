@@ -9,7 +9,6 @@ We want to share as much as we can, but still need to protect some information w
 Private information is hold in our private repository [roboticeyes/rex-wiki](https://github.com/roboticeyes/rex-wiki).
 
 * General
-  * Mission & Vision
   * [Culture](general/culture.md)
   * [Organizational & Legal Structure](general/organizational_legal_structure.md)
   * [Tools](general/tools.md)
